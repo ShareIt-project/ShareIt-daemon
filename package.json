@@ -4,5 +4,6 @@
   "dependencies":
   {
     "IndexedDB": "0.0.1",
+    "webrtc": "latest"  // https://github.com/jpemartins/node-webrtc
   }
 }
