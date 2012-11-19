@@ -12,4 +12,5 @@
 #
 # It's main purpose is to serve as a backend to be controlled from mobile phones
 
-var webp2p = require('../js/webp2p')
+var indexedDB = require('IndexedDB')
+var webp2p    = require('../js/webp2p')
